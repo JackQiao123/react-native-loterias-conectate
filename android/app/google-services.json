@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "81414300175",
+    "firebase_url": "https://conectateloterias-mrl.firebaseio.com",
+    "project_id": "conectateloterias-mrl",
+    "storage_bucket": "conectateloterias-mrl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81414300175:android:96ba8efcada51ffd59397a",
+        "android_client_info": {
+          "package_name": "com.kiskoo.loterias.conectate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81414300175-95i7g34ie1dabhpr79tanesksdrqq51n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCTIUcAqSu7_3qLMai6ZN2CQxih3VAk58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81414300175-95i7g34ie1dabhpr79tanesksdrqq51n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
