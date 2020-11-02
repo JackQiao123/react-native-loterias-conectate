@@ -38,7 +38,7 @@ const colors = {
 
   // drawer colors
   drawerBackground: '#FFF',
-  drawerBackgroundHighlight: '#342B1D',
+  drawerBackgroundHighlight: '#E75A14',
   drawerShadow: '#999',
   drawerBorder: '#EAEAEA',
   drawerText: '#342B1D',
@@ -93,7 +93,7 @@ const colors = {
   matchBallBackground: '#ED412D',
 
   wrongBallText: '#FFF',
-  wrongBallBackground: '#4285F4',
+  wrongBallBackground: '#146AF7',
 
   // table
   tableHeaderBackground: '#EAEAEA',
